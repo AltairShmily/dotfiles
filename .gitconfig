@@ -1,0 +1,9 @@
+[user]
+	email = altari_shmily@163.com
+	name = AltairShmily
+[init]
+	defaultBranch = main
+[core]
+	editor = nvim
+[web]
+	browser = goole-chrome
