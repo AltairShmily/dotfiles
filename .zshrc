@@ -71,11 +71,11 @@ ZSH_THEME="bira"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-	git
+  git
   zsh-autosuggestions
+  zsh-history-substring-search
   zsh-syntax-highlighting
   web-search
-  
 )
 
 source $ZSH/oh-my-zsh.sh
