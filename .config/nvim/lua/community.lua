@@ -12,6 +12,9 @@ return {
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.utility.noice-nvim" },
   { import = "astrocommunity.completion.cmp-cmdline" },
-  { import = "astrocommunity.markdown-and-latex.markview-nvim"}
+  { import = "astrocommunity.markdown-and-latex.markview-nvim" },
+  { import = "astrocommunity.lsp.lsplinks-nvim" },
+  { import = "astrocommunity.motion.flash-nvim" },
+  { import = "astrocommunity.search.grug-far-nvim" },
   -- import/override with your plugins folder
 }

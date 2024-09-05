@@ -16,6 +16,8 @@ return {
             "--completion-style=detailed",
             "--function-arg-placeholders",
             "--fallback-style=llvm",
+            "--pretty",
+            "--compile-commands-dir=${workspaceFolder}/build",
             [[--query-driver=/usr/bin/clang-18,
               /usr/bin/clang++-18,
             ]],
